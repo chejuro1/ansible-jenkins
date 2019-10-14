@@ -1,5 +1,5 @@
 ---
-- hosts: master
+- hosts: 172.31.47.111
   sudo: true
   roles:
     -  ansible-java8-oracle
